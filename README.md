@@ -1,7 +1,13 @@
 ### Hello! 👋
 
-☕ Fullstack Developer Java☕
+☕ Fullstack Developer Java ☕
+    <ul>
+        <li>Bacharel em Ciência da Computação / UIT</li>
+        <li>Pós-graduação em Engenharia de Software / UFMG</li>
+        <li>Sun Certified Programmer Java 2 Platform, SCJP 5.0</li>
+    </ul>
 
+    
 <div align="center">
 
   <a href="https://github.com/marcoslombardi">
