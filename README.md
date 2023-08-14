@@ -12,16 +12,17 @@
 
   <a href="https://github.com/marcoslombardi">
    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoslombardi&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoslombardi&layout=compact&langs_count=7&theme=vision-friendly-dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoslombardi&show_icons=true&theme=vision-friendly&include_all_commits=true&count_private=true">
+
    </div>
     
   <div style="display: inline_block"><br>
-  <img align="center" alt="Java" title="Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Java" title="Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Ubuntu" title="Ubuntu" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">              
   <img align="center" alt="Docker" title="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="MySQL" title="MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="PostgreSQL" title="PostgreSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" /> 
-  <img align="center" alt=Git" title="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="MySQL" title="MySQL" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="PostgreSQL" title="PostgreSQL" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" /> 
+  <img align="center" alt=GitHub" title="GitHub" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
 </div>
   
   ##
